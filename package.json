@@ -10,13 +10,13 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.56.1",
-    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "@sveltejs/vite-plugin-svelte": "^7.3.0",
     "@testing-library/svelte": "^5.2.8",
     "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.4",
-    "svelte": "^5.53.0",
+    "postcss": "^8.5.26",
+    "svelte": "^5.56.10",
     "tailwindcss": "^4.1.8",
-    "vite": "^6.4.1",
-    "vitest": "^3.1.4"
+    "vite": "^8.2.2",
+    "vitest": "^4.1.11"
   }
 }
